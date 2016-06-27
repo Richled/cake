@@ -1,0 +1,133 @@
+
+<div class="m-home">
+	<header>
+			<ul>
+				<li>
+					<img src="/course-cake/images/place.png">
+					<span>北京市</span>
+					<img src="/course-cake/images/arrow.png">
+				</li>
+				<li>
+					<img src="/course-cake/images/logo.png">
+				</li>
+				<li>
+					<img src="/course-cake/images/search.png">
+				</li>
+			</ul>
+	</header>
+	<div spa-widget="scroll">
+		<div>
+			<div class="swiper-container" id="home-swiper">
+			    <div class="swiper-wrapper">
+			        <div class="swiper-slide">
+			        	<img src="/course-cake/images/banner1.jpg">
+			        </div>
+			        <div class="swiper-slide">
+			        	<img src="/course-cake/images/banner2.jpg">
+			        </div>
+			        <div class="swiper-slide">
+			        	<img src="/course-cake/images/banner3.jpg">
+			        </div>
+			        <div class="swiper-slide">
+			        	<img src="/course-cake/images/banner4.jpg">
+			        </div>
+			    </div>
+			</div>
+
+			<div class="title">
+				<ul>
+					<li>
+						<div class="yuding">
+							<img src="/course-cake/images/birthday.png">
+							<span>
+								<p>蛋糕预订</p>
+								<p>千款蛋糕任意挑</p>
+							</span>
+						</div>
+					</li>
+
+					<li>
+						<div class="yuding lingshi">
+							<img src="/course-cake/images/eat.png">
+							<span>
+								<p>零食小吃</p>
+								<p>足不出户逛小吃</p>
+							</span>
+						</div>
+					</li>
+				</ul>
+			</div>
+		
+			<div class="time">
+				<div class="miaosha">
+					限时秒杀
+				</div>
+				<div class="swiper-container" id="ms-swiper">
+				    <div class="swiper-wrapper" >
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/item1.jpg">
+				        	<P>￥11.90</P>
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/item1.jpg">
+				        	<P>￥11.90</P>
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/item1.jpg">
+				        	<P>￥11.90</P>
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/item1.jpg">
+				        	<P>￥11.90</P>
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/item1.jpg">
+				        	<P>￥11.90</P>
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/item1.jpg">
+				        	<P>￥11.90</P>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		
+			<div class="item">
+				<div class="shangpin">
+					<img src="/course-cake/images/tit1.jpg">
+				</div>
+				<div class="shangpin">
+					<img src="/course-cake/images/tit2.jpg">
+				</div>
+				<div class="shangpin">
+					<img src="/course-cake/images/tit3.jpg">
+				</div>
+				<div class="shangpin">
+					<img src="/course-cake/images/tit4.jpg">
+				</div>
+				<div class="shangpin">
+					<img src="/course-cake/images/tit5.jpg">
+				</div>
+				<div class="shangpin">
+					<img src="/course-cake/images/tit6.jpg">
+				</div>
+			</div>
+
+			<div class="item ts">
+				<div class="zhuanti">
+					专题精选
+				</div>
+				<div class="shangpin">
+					<img src="/course-cake/images/zt1.jpg">
+				</div>
+				<div class="shangpin">
+					<img src="/course-cake/images/zt2.jpg">
+				</div>
+				<div class="shangpin">
+					<img src="/course-cake/images/zt3.jpg">
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</div>

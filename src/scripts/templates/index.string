@@ -1,0 +1,23 @@
+<div class="m-index">
+	<div class="l-container"></div>
+	<footer>
+		<ul>
+			<li action-type="switch.tabs" class="active" data-tag="home">
+				<i class="yo-ico">&#xe6bb;</i>
+				<p>首页</p>
+			</li>
+			<li action-type="switch.tabs" data-tag="nearby">
+				<i class="yo-ico">&#xe73c;</i>
+				<p>附近</p>
+			</li>
+			<li action-type="switch.tabs" data-tag="car">
+				<i class="yo-ico">&#xe635;</i>
+				<p>购物车</p>
+			</li>
+			<li action-type="switch.tabs" data-tag="my">
+				<i class="yo-ico">&#xe78d;</i>
+				<p>我的</p>
+			</li>
+		</ul>
+	</footer>
+</div>

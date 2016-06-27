@@ -1,0 +1,13 @@
+
+<div class="m-car">
+	<header>
+			购物车
+	</header>
+	<div class="contain">
+		<img src="/course-cake/images/cart_empty.png">
+		<p>您的购物车还是空的哦！</p>
+		<div class="go">
+			<img src="/course-cake/images/go.jpg">
+		</div>
+	</div>
+</div>	

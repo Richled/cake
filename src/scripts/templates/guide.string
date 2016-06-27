@@ -1,0 +1,19 @@
+<div class="swiper-container" id="guide-swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <img src="/course-cake/images/splarsh1.png">
+    </div>
+    <div class="swiper-slide">
+      <img src="/course-cake/images/splarsh2.png">
+    </div>
+    <div class="swiper-slide">
+      <img src="/course-cake/images/splarsh3.png">
+    </div>
+      <div class="swiper-slide">
+      <img src="/course-cake/images/splarsh4.png">
+    </div>
+    <div class="swiper-slide" action-type="goto.index">
+      <img src="/course-cake/images/splarsh5.png">
+    </div>
+  </div>
+</div>

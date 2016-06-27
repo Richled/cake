@@ -1,0 +1,213 @@
+
+
+	<div class="m-nearby">
+		<header>
+			<img src="/course-cake/images/place_icon.png">
+			<span>正在获取当前位置</span>
+			<img src="/course-cake/images/arrow_down.png">
+		</header>
+
+		<section spa-widget="scroll">
+			<div>
+				<div class="shop">
+				<div class="address">
+					<ul>
+						<li>
+							<img src="/course-cake/images/paris.jpg">
+							<span>
+								<p>巴黎工坊(巴黎工坊3)</p>
+								<p>地址：北京市学院路</p>
+							</span>
+						</li>
+						<li>
+						   <img src="/course-cake/images/nearby_icon.png">
+							<span>1.5KM</span>
+						</li>
+					</ul>
+				</div>
+				<div class="swiper-container near-swiper">
+				    <div class="swiper-wrapper" >
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				    </div>
+				</div>
+			</div>
+
+			<div class="shop item">
+				<div class="address">
+					<ul>
+						<li>
+							<img src="/course-cake/images/paris.jpg">
+							<span>
+								<p>巴黎工坊(巴黎工坊3)</p>
+								<p>地址：北京市学院路</p>
+							</span>
+						</li>
+						<li>
+						   <img src="/course-cake/images/nearby_icon.png">
+							<span>1.5KM</span>
+						</li>
+					</ul>
+				</div>
+				<div class="swiper-container near-swiper">
+				    <div class="swiper-wrapper" >
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				    </div>
+				</div>
+			</div>
+
+			<div class="shop item">
+				<div class="address">
+					<ul>
+						<li>
+							<img src="/course-cake/images/paris.jpg">
+							<span>
+								<p>巴黎工坊(巴黎工坊3)</p>
+								<p>地址：北京市学院路</p>
+							</span>
+						</li>
+						<li>
+						   <img src="/course-cake/images/nearby_icon.png">
+							<span>1.5KM</span>
+						</li>
+					</ul>
+				</div>
+				<div class="swiper-container near-swiper">
+				    <div class="swiper-wrapper" >
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				    </div>
+				</div>
+			</div>
+
+			<div class="shop item">
+				<div class="address">
+					<ul>
+						<li>
+							<img src="/course-cake/images/paris.jpg">
+							<span>
+								<p>巴黎工坊(巴黎工坊3)</p>
+								<p>地址：北京市学院路</p>
+							</span>
+						</li>
+						<li>
+						   <img src="/course-cake/images/nearby_icon.png">
+							<span>1.5KM</span>
+						</li>
+					</ul>
+				</div>
+				<div class="swiper-container near-swiper">
+				    <div class="swiper-wrapper" >
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				    </div>
+				</div>
+			</div>
+
+			<div class="shop item">
+				<div class="address">
+					<ul>
+						<li>
+							<img src="/course-cake/images/paris.jpg">
+							<span>
+								<p>巴黎工坊(巴黎工坊3)</p>
+								<p>地址：北京市学院路</p>
+							</span>
+						</li>
+						<li>
+						   <img src="/course-cake/images/nearby_icon.png">
+							<span>1.5KM</span>
+						</li>
+					</ul>
+				</div>
+				<div class="swiper-container near-swiper">
+				    <div class="swiper-wrapper" >
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				        <div class="swiper-slide">
+				        	<img src="/course-cake/images/cake.jpg">
+				        </div>
+				    </div>
+				</div>
+			</div>
+			</div>
+		</section>
+	</div>
